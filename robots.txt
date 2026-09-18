@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://urjypeggv.github.io/sitemap.xml

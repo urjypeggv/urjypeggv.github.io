@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "43990dc4dfea5f72b4c91c24",
+  "owner": "urjypeggv",
+  "repo": "urjypeggv.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "7c04873c0301b6bd1ab357ff",
+      "a": "Precision",
+      "b": "加速器官网",
+      "entity": "Precision",
+      "brand": "加速器官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f96a327b21da6ec68f5b2dcf090f21761f2db4819e11d6d703b9ceea283dbd49",
+      "content": {
+        "primary_entity": "Precision",
+        "keyword1": "Precision",
+        "keyword2": "加速器官网",
+        "content": {
+          "AI_DESCRIPTION": "，Precision 提供基础版、旗舰版与团队版三档方案，分别面向轻度个人使用、多设备重度需求与团队协作场景。经常看流媒体或玩联机游戏可优先关注旗舰版，拥有全节点原生流媒体解锁与 IPLC 专线游戏加速；如果同时在线设备多或需要企业定制路由，团队版更合适。订阅周期按年付费可节省开支，设备数量与流量额度按套餐递增，选之前先厘清常用设备数量和月流量消耗。",
+          "AI_HERO_SUBTITLE": "Precision 套餐随设备与用量灵活选",
+          "AI_HERO_INTRO": "Precision 提供基础版、旗舰版和团队版三档订阅，分别覆盖个人轻量使用、多设备流媒体与游戏加速、以及团队协作场景。流量额度、同时在线设备数量和节点质量按档位递增，按年支付比按月更划算，选择时先确认常用设备数、月度流量消耗和是否需要专线优化。",
+          "AI_VISUAL_TITLE": "Precision 订阅方案速览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "旗舰版带 IPLC 游戏专线",
+          "AI_HIGHLIGHT_3": "按年付费节省月均开支",
+          "AI_FEATURES_TITLE": "套餐选择与配置要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度和订阅周期三个角度判断哪档 Precision 方案更适合日常使用。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版适合三台以内设备，旗舰版扩展到五台，团队版支持二十台同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量需求选",
+          "AI_FEATURE_TEXT_2": "轻度浏览可选基础版，流媒体和游戏集中使用选旗舰版，多成员共享选团队版。",
+          "AI_FEATURE_TITLE_3": "按周期决定付费",
+          "AI_FEATURE_TEXT_3": "三档均支持月付与年付，年付折算下来月均费用更低，长期使用建议按年订阅。",
+          "AI_CLIENTS_TITLE": "客户端配置参考",
+          "AI_CLIENTS_INTRO": "Precision 订阅可在常见代理客户端中使用，按操作系统选择对应客户端并导入订阅链接即可。",
+          "AI_PLANS_TITLE": "Precision 套餐对比",
+          "AI_PLANS_INTRO": "先看同时在线设备和月流量的需求，再决定基础版、旗舰版或团队版，年付均比月付更省。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "根据常用设备数量与月流量消耗选定档位，再按客户端说明添加订阅链接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量、月流量和是否需要专线加速，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_2": "查看设备适配",
+          "AI_STEP_TEXT_2": "确认常用设备的操作系统与 Precision 订阅兼容，并核对同时在线设备上限。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "在选定的客户端中依照其文档添加订阅链接，完成后刷新节点即可开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对 Precision 套餐",
+          "AI_CLOSING_TEXT": "按设备数量和流量习惯挑一档 Precision 订阅，按年支付更省心。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "Precision 套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "先统计常用设备数量和月度流量。少量设备、轻度浏览选基础版；多设备追剧或游戏选旗舰版；多人共用、流量需求大选团队版。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "不同套餐支持的设备数不同，基础版适合个人少量设备，旗舰版适合多设备家庭，团队版可满足多人同时使用。超出限制时部分设备会被挤下线。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按自然月计费，调整灵活；年付一次性支付全年费用，平均到每月的成本更低。长期使用建议选年付。",
+          "AI_FAQ_QUESTION_4": "订阅链接怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "购买后获取订阅链接，在对应客户端中选择从链接导入或手动粘贴订阅地址，更新节点后即可连接。不同客户端操作路径略有差异。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版面向多人协作、小型工作室或家庭多设备场景，提供较大的流量额度与较多设备数，并包含 VIP 节点与专属支持。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "fcc7ac1e9cbe8d2467ae1eff52b146a70c44c41ff512c5eb6d6b73e6b8b6e407",
+    "sitemap.xml": "197c1c09a9ab7fc22b87b3d4708a16030b9426f594b9d649b98a129e17c28277",
+    "robots.txt": "4d39786c20c5f9c6a577088cc087316ed9bc0dd2a73fd8999e0234bcd0877d0f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "eb28c7b229173494e919e7c73806b54b4c91236511796485186a2b532c645acd"
+}
